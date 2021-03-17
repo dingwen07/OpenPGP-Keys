@@ -1,7 +1,8 @@
 # OpenPGP-Keys
 
 - [C90F5D94EAB69014](#c90f5d94eab69014)
-- [05B03FF63F845F35](#05b03ff63f845f35)
+- [57C48F69BA3E8068](#57c48f69ba3e8068)
+- ~~[05B03FF63F845F35](#05b03ff63f845f35)~~
 - [D48088D4879F5C7D](#d48088d4879f5c7d)
 - [0148F0F7EF0BDFDE](#0148f0f7ef0bdfde)
 
@@ -24,19 +25,39 @@ Public Key URL: <https://pubkey.extrawdw.net/93BE32E6615C3945E613E426C90F5D94EAB
 - Dingwen Wang \<dingwen@mail.extrawdw.net\>
 - Dingwen Wang \<dingwen@terpmail.umd.edu\>
 
-## 05B03FF63F845F35
+## 57C48F69BA3E8068
 
 ### Key Information
 
-Fingerprint: `E0684AF79DB273E65A4F1A6D05B03FF63F845F35`
+Fingerprint: `CA52A71B5FB3AE49B6B4672657C48F69BA3E8068`
 
-Public Key: [E0684AF79DB273E65A4F1A6D05B03FF63F845F35.asc](query.html?id=E0684AF79DB273E65A4F1A6D05B03FF63F845F35)
+Public Key: [CA52A71B5FB3AE49B6B4672657C48F69BA3E8068.asc](query.html?id=CA52A71B5FB3AE49B6B4672657C48F69BA3E8068)
 
-Public Key URL: <https://pubkey.extrawdw.net/E0684AF79DB273E65A4F1A6D05B03FF63F845F35.asc>
+Public Key URL: <https://pubkey.extrawdw.net/CA52A71B5FB3AE49B6B4672657C48F69BA3E8068.asc>
 
 ### User IDs
 
 - Dingwen Wong \<wongdingwen07@gmail.com\>
+- Dingwen Wong \<dingwen@mail.extrawdw.net\>
+- Dingwen Wong \<dingwen07@protonmail.com\>
+- Dingwen Wong \<dingwen07@pm.me\>
+
+## ~~05B03FF63F845F35~~
+
+### ~~Key Information~~
+
+~~Fingerprint: `E0684AF79DB273E65A4F1A6D05B03FF63F845F35`~~
+
+~~Public Key: [E0684AF79DB273E65A4F1A6D05B03FF63F845F35.asc](query.html?id=E0684AF79DB273E65A4F1A6D05B03FF63F845F35)~~
+
+~~Public Key URL: <https://pubkey.extrawdw.net/E0684AF79DB273E65A4F1A6D05B03FF63F845F35.asc>~~
+
+### ~~User IDs~~
+
+- ~~Dingwen Wong \<wongdingwen07@gmail.com\>~~
+- ~~Dingwen Wong \<dingwen07@protonmail.com\>~~
+- ~~Dingwen Wong \<dingwen07@pm.me\>~~
+- ~~Dingwen Wong \<dingwen@mail.extrawdw.net\>~~
 
 ## D48088D4879F5C7D
 
@@ -69,3 +90,5 @@ Public Key URL: <https://pubkey.extrawdw.net/21D80E0D7EAB7F848751138E0148F0F7EF0
 - Extrawdw \<admin@mail.extrawdw.net\>
 - Extrawdw \<extrawdw@extrawdw.net\>
 - Extrawdw\<code@extrawdw.net\>
+- Extrawdw\<extrawdw@pm.me\>
+- Extrawdw\<extrawdw@protonmail.com\>

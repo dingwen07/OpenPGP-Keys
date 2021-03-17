@@ -71,8 +71,8 @@ Public Key URL: <https://pubkey.extrawdw.net/C1F037EF3C9982C11024361AD48088D4879
 
 ### User IDs
 
-- Extrawdw \<notification@services.extrawdw.net\>
 - Extrawdw \<notification@extrawdw.net\>
+- Extrawdw \<notification@services.extrawdw.net\>
 
 ## 0148F0F7EF0BDFDE
 
@@ -90,5 +90,5 @@ Public Key URL: <https://pubkey.extrawdw.net/21D80E0D7EAB7F848751138E0148F0F7EF0
 - Extrawdw \<admin@mail.extrawdw.net\>
 - Extrawdw \<extrawdw@extrawdw.net\>
 - Extrawdw\<code@extrawdw.net\>
-- Extrawdw\<extrawdw@pm.me\>
 - Extrawdw\<extrawdw@protonmail.com\>
+- Extrawdw\<extrawdw@pm.me\>

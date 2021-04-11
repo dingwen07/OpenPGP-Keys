@@ -1,0 +1,1 @@
+gpg --armor --output KEY_ID.asc --export-options export-minimal --export KEY_ID

@@ -25,6 +25,8 @@ Public Key URL: <https://pubkey.extrawdw.net/93BE32E6615C3945E613E426C90F5D94EAB
 - Dingwen Wang \<dingwen@terpmail.umd.edu\>
 - Dingwen Wang \<wongdingwen07@gmail.com\>
 - Dingwen Wang \<dingwen@extrawdw.com\>
+- Dingwen Wang \<dingwen.w@nyu.edu\>
+- Dingwen Wang \<dw3295@nyu.edu\>
 
 ## 57C48F69BA3E8068
 
